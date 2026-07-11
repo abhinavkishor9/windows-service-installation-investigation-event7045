@@ -1,0 +1,2 @@
+# windows-service-installation-investigation-event7045
+Investigated Windows Service Installation using Event ID 7045 (Service Control Manager). This SOC-focused lab demonstrates how to identify newly installed services, inspect service configuration, validate installation artifacts, understand persistence techniques, and safely remove the service while documenting the complete investigation workflow.
